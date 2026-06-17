@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106864347153",
+    "project_id": "wakenya-insurance",
+    "storage_bucket": "wakenya-insurance.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106864347153:android:5b4da5d2d186357b84c9b0",
+        "android_client_info": {
+          "package_name": "com.csys.wakenya_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscKLP5S3-4fykMnMjwXFdat4Og-GDt-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106864347153:android:192fd58ffa6bb1d584c9b0",
+        "android_client_info": {
+          "package_name": "com.example.wakenya_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscKLP5S3-4fykMnMjwXFdat4Og-GDt-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
