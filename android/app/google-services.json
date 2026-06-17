@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772666698917",
+    "project_id": "summit-university",
+    "storage_bucket": "summit-university.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772666698917:android:aa43b7fa0091d625b5b14c",
+        "android_client_info": {
+          "package_name": "com.example.untitled9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIN4BOH84SORiG3N-AIzs2V_z4fY9CFuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
